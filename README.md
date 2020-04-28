@@ -96,22 +96,27 @@ underdeveloped areas.
 
 ## Screenshots
 
-![Voting Form](images/Form.png "Voting Form")  
+### Voting Form
 
-*Voting Form*  
+![Voting Form](images/Form.png "Voting Form")  
+*Voting Form*
+
+### Splash Screen
 
 ![Splash Screen](images/splash_screen.jpg "Splash Screen")  
+*Splash Screen*
 
-*Splash Screen*  
+### Welcome Screen
 
 ![Welcome Screen](images/Welcome_screen.jpg "Welcome Screen")  
+*Welcome Screen*
 
-*Welcome Screen*  
+### Voting Screen
 
 ![Voting Screen](images/voting_screen.jpg "Voting Screen")  
+*Voting Screen*
 
-*Voting Screen*  
+### Email Screen
 
 ![Email Screen](images/email_screen.jpg "Email Screen")  
-
-*Email Screen*  
+*Email Screen*
