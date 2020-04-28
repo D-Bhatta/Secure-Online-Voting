@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to Secure Voting Online
 
-You can use the [editor on GitHub](https://github.com/D-Bhatta/Secure-Online-Voting/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Voting is a right to every citizen. It gives the choice of the people to whom they want to up hold the meaning of a system governed by the people’s choice. However, representing elections have become a debatable issue. Different techniques of voting have evolved from simple manual voting to internet voting systems that only require the voter to come from the comfort of their home to vote their candidate from their personal computers. An election system should be able to overcome different hacking and fraud techniques. To overcome different complications and to reinforce the checking and calculating results, the project suggests the use of hashing. Authentication is made by comparing hashes using SHA-256. The system is more secured. Vote can be audited later by comparing hashes in a database.
+Online voting or E-voting refers to voting using electronic means to either aid or take care of the chores of casting and counting votes.
 
-### Markdown
+Depending on the particular implementation, e-voting may use computers connected to the internet. It encompasses a range of Internet services, from basic data transmission to full-function online voting through common connectable consumer devices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The proliferation of personal mobile devices in the form of tablets and smartphones, based on the Android operating system, presents a unique opportunity to empower isolated communities who traditionally have had a difficult time voting.
 
-```markdown
-Syntax highlighted code block
+## Link to App
 
-# Header 1
-## Header 2
-### Header 3
+You can download the app at [Secure Voting Online]()
 
-- Bulleted
-- List
+## Advantages
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/D-Bhatta/Secure-Online-Voting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Screenshots
