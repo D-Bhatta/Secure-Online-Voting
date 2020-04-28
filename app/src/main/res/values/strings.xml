@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Secure Online Voting</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="scan_name">Scan Name</string>
+    <string name="next">NEXT</string>
+    <string name="edit_message">Enter a value</string>
+    <string name="button_send">Send</string>
+    <string name="button_ok">Vote</string>
+    <string name="finish">Finish</string>
+    <string name="enc">Encrypted Name: </string>
+    <string name="subtitle">Let\'s start voting!</string>
+    <string name="instructions">Scan your name and then click next!</string>
+    <string name="vote_instructions">Scan your candidate\'s QR symbol by clicking on Vote, and then click FINISH to vote</string>
+
+
+</resources>
