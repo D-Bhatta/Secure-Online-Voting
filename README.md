@@ -13,6 +13,14 @@ The proliferation of personal mobile devices in the form of tablets and smartpho
 
 You can download the app at [Secure Voting Online](https://github.com/D-Bhatta/Secure-Online-Voting/raw/master/app/release/app-release.apk)
 
+## Link to Report
+
+You can download the report at [Secure Voting Online Report](https://github.com/D-Bhatta/Secure-Online-Voting/raw/master/SECURE%20%20ONLINE%20VOTING.pdf)
+
+## Link to PowerPoint
+
+You can download the report at [Secure Voting Online PowerPoint](https://github.com/D-Bhatta/Secure-Online-Voting/raw/master/Secure%20Online%20Voting2.pptx)
+
 ## Our System
 
 Relevant agencies tasked with conducting the election shall make use of the National Electoral Roll
